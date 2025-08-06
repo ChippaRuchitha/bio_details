@@ -8,7 +8,7 @@ pipeline {
                 echo "Cloning repo..."
                 checkout scm
 
-                git 'https://github.com/ChipparaRuchitha/bio_details.git'
+                git 'https://github.com/ChippaRuchitha/bio_details.git'
 
             }
         }
