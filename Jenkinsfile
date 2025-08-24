@@ -1,14 +1,3 @@
-ChatGPT said:
-
-Perfect 👌 Let’s update your Jenkinsfile so it:
-
-Clones your repo (with Bio.html + Dockerfile).
-
-Builds the Docker image.
-
-Runs the container (serving your Bio page with nginx).
-
-Here’s a working Jenkinsfile for your case:
 pipeline {
     agent any
 
